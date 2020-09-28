@@ -6,15 +6,11 @@
 </head>
 <body>
 	<header>
-<html>
 		<div class="main">
 			<url>
-				<li><a href="#">home</a></li>
-                <li><a href="#">service</a></li>
-                <li><a href="#">gallery</a></li>
-	            <li><a href="#">about</a></li>
-	            <li><a href="#">contact</a></li>
-	        </url>
+				<li><a href="#">true friendship exists</a></li>
+                 </url>
+			![](C:\Users\Spoorti\Pictures\2020-07-09)
  	    </div>
     </header>
 </body>
